@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: LovelyCar
-  host: LovelyCar.mybluemix.net
+  host: LovelyCar
   disk_quota: 1024M
